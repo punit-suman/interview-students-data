@@ -1,0 +1,6 @@
+Use studentsData.json file
+Given data - marks of 3 students in 5 different subjects
+
+Process the given data to given the resulting output as,
+1. Roll No, Name, Average Marks for each student
+2. Maximum, Minimum score for each student
